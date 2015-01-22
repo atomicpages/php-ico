@@ -4,3 +4,5 @@
 	Added requirements checks.
 1.0.2 - 2013-01-07
 	Added bug fix that caused source images with transparency to have artifacts when output at the same dimensions as the source.
+1.1.0 - 2015-01-21
+	Added PHP 5 improvements and cleaned up documentation, and cleaned up formatting
